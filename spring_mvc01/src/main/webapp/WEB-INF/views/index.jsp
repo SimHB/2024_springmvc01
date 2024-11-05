@@ -5,7 +5,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Insert title here</title>
+		<title>Index(수정)</title>
 	</head>
 	<body>
 		<h1>Non-Annotation</h1>
